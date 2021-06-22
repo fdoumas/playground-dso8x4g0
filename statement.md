@@ -1,6 +1,8 @@
-# Welcome!
+# Bonjour !
 
-This C# template lets you get started quickly with a simple one-page playground.
+Ceci est mon premier modèle de terrain de jeux, bien que cela ne soit pas très amusant pour le moment...
+
+
 
 ```C# runnable
 // { autofold
